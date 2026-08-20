@@ -5,6 +5,8 @@
 
 > One streamlined vehicle platform. Multiple transport configurations.
 
+![AeroLink modular transport system overview](assets/aerolink-system-overview-v1.png)
+
 ## Overview
 
 **LORI AeroLink Modular Transport** is a research-stage transportation concept exploring whether a highly aerodynamic front vehicle platform can be combined with interchangeable rear modules through a detachable coupling architecture.
@@ -27,42 +29,7 @@ The project also explores removing traditional exterior components that interrup
 
 ## Core Concept
 
-### 1. Modular Rear Architecture
-
-The rear section is designed as an interchangeable transport module rather than a permanently fixed body.
-
-Conceptual modules may include:
-
-* **VAN**
-* **Open Cargo Bed**
-* **Enclosed Cargo Container**
-* **Flatbed**
-* **Long-Object Carrier**
-* **Special-Purpose Module**
-
-This could allow one front vehicle platform to perform several transportation roles.
-
----
-
-### 2. Magnetic-Assisted Detachable Coupling
-
-AeroLink explores a **Shinkansen-inspired detachable coupling philosophy** for rapidly connecting and disconnecting rear modules.
-
-The current concept investigates magnetic or electromagnetic assistance for:
-
-* Alignment
-* Positioning
-* Connection guidance
-* Coupling confirmation
-* Rapid module exchange
-
-A production system would likely require redundant mechanical locking, structural load paths, electrical/data connections, and fail-safe mechanisms.
-
-**Important:** The magnetic coupling architecture shown in the concept artwork is exploratory and has not yet been validated as a road-legal structural coupling system.
-
----
-
-### 3. Mirrorless 360° Sensor Fusion
+### 1. Mirrorless 360° Sensor Fusion
 
 Traditional side mirrors create external protrusions and aerodynamic drag.
 
@@ -80,7 +47,7 @@ The objective is not simply to remove mirrors, but to create a redundant **360°
 
 ---
 
-### 4. Smart Windshield System
+### 2. Smart Windshield System
 
 The concept also investigates reducing dependence on conventional exposed windshield wipers.
 
@@ -99,9 +66,11 @@ Hydrophobic coatings could reduce water adhesion, while integrated heating could
 
 A production design may still require an emergency or redundant mechanical wiping system depending on safety requirements and applicable regulations.
 
+![AeroLink autonomous sensor fusion and smart windshield system](assets/aerolink-autonomous-sensor-system-v1.png)
+
 ---
 
-### 5. Integrated High / Low Beam Lighting
+### 3. Integrated High / Low Beam Lighting
 
 Instead of concentrating all forward lighting into one conventional headlamp assembly, AeroLink explores separating lighting functions.
 
@@ -111,6 +80,43 @@ Possible architecture:
 * **Lower lighting zone — near-field / low beam**
 
 The lighting system can be integrated into the aerodynamic body surface to minimize unnecessary external protrusions.
+
+---
+
+### 4. Modular Rear Architecture
+
+The rear section is designed as an interchangeable transport module rather than a permanently fixed body.
+
+Conceptual modules may include:
+
+* **VAN**
+* **Open Cargo Bed**
+* **Enclosed Cargo Container**
+* **Flatbed**
+* **Long-Object Carrier**
+* **Special-Purpose Module**
+
+This could allow one front vehicle platform to perform several transportation roles.
+
+---
+
+### 5. Magnetic-Assisted Detachable Coupling
+
+AeroLink explores a **Shinkansen-inspired detachable coupling philosophy** for rapidly connecting and disconnecting rear modules.
+
+The current concept investigates magnetic or electromagnetic assistance for:
+
+* Alignment
+* Positioning
+* Connection guidance
+* Coupling confirmation
+* Rapid module exchange
+
+A production system would likely require redundant mechanical locking, structural load paths, electrical/data connections, and fail-safe mechanisms.
+
+**Important:** The magnetic coupling architecture shown in the concept artwork is exploratory and has not yet been validated as a road-legal structural coupling system.
+
+![AeroLink magnetic-link coupling and interchangeable rear modules](assets/aerolink-magnetic-coupling-modules-v1.png)
 
 ---
 
