@@ -249,6 +249,16 @@ Prior-art research and technical comparison should therefore remain an ongoing p
 
 ---
 
+## License
+
+This repository is published under the **LORI Framework Proprietary License**.
+
+All rights are reserved by Lori Framework. See [LICENSE.md](LICENSE.md) for the full license terms.
+
+For written authorization or licensing inquiries, contact: beautysungril@gmail.com
+
+---
+
 ## Safety Notice
 
 This repository describes a conceptual transportation architecture.
